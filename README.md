@@ -1,10 +1,10 @@
 <!-- Khanh-Hop -->
 <a href="https://github.com/Khanh-Hop" target="_blank">
-  <img src="svg/khanhhop.svg" width="1200" alt="khanhhop-official" />
+  <img src="khanhhop.svg" width="1200" alt="khanhhop-official" />
 </a>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Khanh-Hop/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Khanh-Hop&color=61dafb&style=flat-square" alt="Visitor Counter" />
 </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -90,5 +90,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="https://github.com/Khanh-Hop" target="_blank">
-  <img src="svg/khanhhop-quotes.svg" width="846" height="150" alt="khanhhop-signature" />
+  <img src="khanhhop-quotes.svg" width="846" height="150" alt="khanhhop-signature" />
 </a>
